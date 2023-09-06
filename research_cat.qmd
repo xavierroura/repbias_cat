@@ -1,0 +1,9 @@
+---
+title: "Resultats Recerca"
+---
+
+### Un article publicat a "The Economist" es fa ressò dels resultats del projecte
+
+L'article, publicat el 14 de març (i disponible [aquí](https://www.economist.com/graphic-detail/2023/03/14/upper-legislative-houses-tend-to-be-biased-and-malapportioned)), explica com les cambres altes acostumen a tenir un biaix de representació més elevat que no pas les cambres baixes. També fan èmfasi en el biaix ideològic que se'n deriva, especialment conservador en les cambres altes. Amb diverses representacions gràfiques, ensenyen particularment el cas dels senats de Brasil i els Estats Units.
+
+![](images/article%20the%20economis.png){fig-align="center"}

@@ -1,0 +1,9 @@
+---
+title: "Sobre el projecte"
+---
+
+El projecte *REPBIAS: L'origen del biaix de representació: una aproximació des de la història politico-econòmica*, és un projecte de recerca liderat per Marc Guinjoan i finançat pel Ministeri de Ciència i Innovació del Govern de l'Estat Espanyol.
+
+Aquest projecte de recerca té com a intenció generar coneixement respecte el biaix de representació a l'estat espayol però també a nivell internacional, a través de diverses vessants. Entre elles hi ha el malapportionment intencionat, els drets de les minories, o la perspectiva històrica.
+
+![](images/foto%20about.jpg){fig-align="center"}
